@@ -1,0 +1,7 @@
+﻿src       : tarsau.c ve makefile
+
+library   : yazmış olduğumuz yardımcı fonksiyonlar
+
+kök dizin : sauzip adında çalıştırılabilir dosya ve metin dosyaları
+
+>tarsau -b [DosyaIsmi1,DosyaIsmi2,...,n] -o IstegeBagli:[CikarilacakDosyaAdi.sau]
